@@ -31,7 +31,7 @@ switch (mes) {
 
 //3. Función CalcularDiasMes
 
-functioncalcularDiasMes(mes) {
+function calcularDiasMes(mes) {
     switch(mes) {
         case 2:
             return 28
